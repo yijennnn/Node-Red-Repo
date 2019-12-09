@@ -1,0 +1,1 @@
+[{"id":"a0117318.42fab","type":"http request","z":"7606436a.44383c","name":"","method":"GET","ret":"txt","paytoqs":false,"url":"http://api.mediatek.com/mcs/v2/devices/D9lDNvag/datachannels/Temperature/datapoints.csv","tls":"","proxy":"","authType":"","x":450,"y":260,"wires":[["74d08250.12f68c","2f3edd9c.5e1ab2"]]}]
